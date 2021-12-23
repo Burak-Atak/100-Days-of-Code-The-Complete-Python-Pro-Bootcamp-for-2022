@@ -5,3 +5,9 @@ This is a project with an ui. Program shows English word. Waiting after 3 second
 +++++
 
 Bu arayüze sahip bir projedir. Program ingilizce kelimeyi gösterir. 3 saniye bekledikten sonra kelimenin türkçe anlamını gösterir. Eğer kullanıcı yeşil butona tıklarsa mevcut kelime listeden silinir,  yeni liste .csv dosyasına kaydedilir ve bir sonraki kelimeye geçilir. Kullanıcı kırmızı düğmeye basarsa yalnızca bir sonraki kelimeye geçilir.
+
++++++
+
+# References
+
+[I took the data from here](https://github.com/hermitdave/FrequencyWords)
