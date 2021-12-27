@@ -3,7 +3,7 @@ import smtplib
 
 # Define variables
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
-API_KEY = "8a89b1467eda75369335853054a5e350"
+API_KEY = "Your OpenWeatherMap API"
 my_email = "Your e-mail"
 password = "E-mail's password"
 to_mail = "E-mail address to send"
